@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.pytest_cache/
+.env
+mock_mvp/estado.json
+dados/ultima_previsao.json

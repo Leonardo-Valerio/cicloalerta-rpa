@@ -1,0 +1,312 @@
+[
+ {
+  "id": "r001",
+  "lat": -23.555729,
+  "lon": -46.661926,
+  "tipo": "obstaculo",
+  "severidade": "baixa",
+  "origem": "app",
+  "data": "2026-11-12T10:00",
+  "simulado": true
+ },
+ {
+  "id": "r002",
+  "lat": -23.568295,
+  "lon": -46.693197,
+  "tipo": "poca",
+  "severidade": "baixa",
+  "origem": "app",
+  "data": "2026-11-11T02:00",
+  "simulado": true
+ },
+ {
+  "id": "r003",
+  "lat": -23.572912,
+  "lon": -46.690285,
+  "tipo": "buraco",
+  "severidade": "media",
+  "origem": "robo",
+  "data": "2026-11-15T02:00",
+  "simulado": true
+ },
+ {
+  "id": "r004",
+  "lat": -23.571193,
+  "lon": -46.691354,
+  "tipo": "buraco",
+  "severidade": "alta",
+  "origem": "app",
+  "data": "2026-11-14T22:00",
+  "simulado": true
+ },
+ {
+  "id": "r005",
+  "lat": -23.58248,
+  "lon": -46.68467,
+  "tipo": "poca",
+  "severidade": "baixa",
+  "origem": "robo",
+  "data": "2026-11-17T21:00",
+  "simulado": true
+ },
+ {
+  "id": "r006",
+  "lat": -23.58819,
+  "lon": -46.681321,
+  "tipo": "poca",
+  "severidade": "media",
+  "origem": "app",
+  "data": "2026-11-18T06:00",
+  "simulado": true
+ },
+ {
+  "id": "r007",
+  "lat": -23.56678,
+  "lon": -46.648609,
+  "tipo": "buraco",
+  "severidade": "alta",
+  "origem": "visao",
+  "data": "2026-11-13T21:00",
+  "simulado": true
+ },
+ {
+  "id": "r008",
+  "lat": -23.571517,
+  "lon": -46.691168,
+  "tipo": "obstaculo",
+  "severidade": "baixa",
+  "origem": "app",
+  "data": "2026-11-13T01:00",
+  "simulado": true
+ },
+ {
+  "id": "r009",
+  "lat": -23.55778,
+  "lon": -46.659307,
+  "tipo": "obstaculo",
+  "severidade": "alta",
+  "origem": "app",
+  "data": "2026-11-11T10:00",
+  "simulado": true
+ },
+ {
+  "id": "r010",
+  "lat": -23.588489,
+  "lon": -46.681275,
+  "tipo": "buraco",
+  "severidade": "media",
+  "origem": "robo",
+  "data": "2026-11-15T21:00",
+  "simulado": true
+ },
+ {
+  "id": "r011",
+  "lat": -23.558358,
+  "lon": -46.658496,
+  "tipo": "buraco",
+  "severidade": "media",
+  "origem": "robo",
+  "data": "2026-11-14T12:00",
+  "simulado": true
+ },
+ {
+  "id": "r012",
+  "lat": -23.571073,
+  "lon": -46.691441,
+  "tipo": "poca",
+  "severidade": "media",
+  "origem": "robo",
+  "data": "2026-11-09T04:00",
+  "simulado": true
+ },
+ {
+  "id": "r013",
+  "lat": -23.576367,
+  "lon": -46.688365,
+  "tipo": "desnivel",
+  "severidade": "baixa",
+  "origem": "app",
+  "data": "2026-11-09T13:00",
+  "simulado": true
+ },
+ {
+  "id": "r014",
+  "lat": -23.557674,
+  "lon": -46.659567,
+  "tipo": "poca",
+  "severidade": "baixa",
+  "origem": "robo",
+  "data": "2026-11-14T16:00",
+  "simulado": true
+ },
+ {
+  "id": "r015",
+  "lat": -23.580568,
+  "lon": -46.685735,
+  "tipo": "buraco",
+  "severidade": "baixa",
+  "origem": "visao",
+  "data": "2026-11-10T13:00",
+  "simulado": true
+ },
+ {
+  "id": "r016",
+  "lat": -23.570216,
+  "lon": -46.691971,
+  "tipo": "obstaculo",
+  "severidade": "media",
+  "origem": "app",
+  "data": "2026-11-13T08:00",
+  "simulado": true
+ },
+ {
+  "id": "r017",
+  "lat": -23.568406,
+  "lon": -46.646946,
+  "tipo": "poca",
+  "severidade": "media",
+  "origem": "app",
+  "data": "2026-11-14T18:00",
+  "simulado": true
+ },
+ {
+  "id": "r018",
+  "lat": -23.563324,
+  "lon": -46.6528,
+  "tipo": "buraco",
+  "severidade": "alta",
+  "origem": "visao",
+  "data": "2026-11-13T12:00",
+  "simulado": true
+ },
+ {
+  "id": "r019",
+  "lat": -23.557011,
+  "lon": -46.660215,
+  "tipo": "buraco",
+  "severidade": "media",
+  "origem": "app",
+  "data": "2026-11-16T04:00",
+  "simulado": true
+ },
+ {
+  "id": "r020",
+  "lat": -23.556588,
+  "lon": -46.660896,
+  "tipo": "poca",
+  "severidade": "media",
+  "origem": "app",
+  "data": "2026-11-11T17:00",
+  "simulado": true
+ },
+ {
+  "id": "r021",
+  "lat": -23.591246,
+  "lon": -46.679675,
+  "tipo": "poca",
+  "severidade": "alta",
+  "origem": "app",
+  "data": "2026-11-08T20:00",
+  "simulado": true
+ },
+ {
+  "id": "r022",
+  "lat": -23.566018,
+  "lon": -46.649711,
+  "tipo": "buraco",
+  "severidade": "alta",
+  "origem": "robo",
+  "data": "2026-11-17T11:00",
+  "simulado": true
+ },
+ {
+  "id": "r023",
+  "lat": -23.558709,
+  "lon": -46.658324,
+  "tipo": "buraco",
+  "severidade": "alta",
+  "origem": "app",
+  "data": "2026-11-18T16:00",
+  "simulado": true
+ },
+ {
+  "id": "r024",
+  "lat": -23.566023,
+  "lon": -46.649946,
+  "tipo": "buraco",
+  "severidade": "media",
+  "origem": "app",
+  "data": "2026-11-13T06:00",
+  "simulado": true
+ },
+ {
+  "id": "r025",
+  "lat": -23.555689,
+  "lon": -46.661926,
+  "tipo": "obstaculo",
+  "severidade": "baixa",
+  "origem": "app",
+  "data": "2026-11-12T10:00",
+  "simulado": true
+ },
+ {
+  "id": "r026",
+  "lat": -23.568255,
+  "lon": -46.693197,
+  "tipo": "poca",
+  "severidade": "baixa",
+  "origem": "app",
+  "data": "2026-11-11T02:00",
+  "simulado": true
+ },
+ {
+  "id": "r027",
+  "lat": -23.572872,
+  "lon": -46.690285,
+  "tipo": "buraco",
+  "severidade": "media",
+  "origem": "app",
+  "data": "2026-11-15T02:00",
+  "simulado": true
+ },
+ {
+  "id": "r028",
+  "lat": null,
+  "lon": null,
+  "tipo": "buraco",
+  "severidade": "alta",
+  "origem": "app",
+  "data": "2026-11-18T18:00",
+  "simulado": true
+ },
+ {
+  "id": "r029",
+  "lat": -23.5612,
+  "lon": -46.656,
+  "tipo": "jacare",
+  "severidade": "alta",
+  "origem": "app",
+  "data": "2026-11-18T18:00",
+  "simulado": true
+ },
+ {
+  "id": "r030",
+  "lat": -22.9068,
+  "lon": -43.1729,
+  "tipo": "buraco",
+  "severidade": "alta",
+  "origem": "app",
+  "data": "2026-11-18T18:00",
+  "simulado": true
+ },
+ {
+  "id": "r031",
+  "lat": -23.579,
+  "lon": -46.687,
+  "tipo": "buraco",
+  "severidade": "altissima",
+  "origem": "robo",
+  "data": "2026-11-18T18:00",
+  "simulado": true
+ }
+]

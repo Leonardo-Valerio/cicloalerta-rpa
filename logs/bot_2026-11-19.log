@@ -1,0 +1,111 @@
+2026-11-19 18:50:40 | INFO    | Início da execução (MVP: http://127.0.0.1:8000) · MODO DEMONSTRAÇÃO: chuva simulada de 5.0 mm
+2026-11-19 18:50:40 | INFO    | Relatos lidos: 31
+2026-11-19 18:50:40 | WARNING | Quarentena: relato r028 (sem_coordenada)
+2026-11-19 18:50:40 | WARNING | Quarentena: relato r029 (tipo_invalido)
+2026-11-19 18:50:40 | WARNING | Quarentena: relato r030 (fora_de_sao_paulo)
+2026-11-19 18:50:40 | WARNING | Quarentena: relato r031 (severidade_invalida)
+2026-11-19 18:50:40 | INFO    | Duplicado unido: relato r024
+2026-11-19 18:50:40 | INFO    | Duplicado unido: relato r027
+2026-11-19 18:50:40 | INFO    | Duplicado unido: relato r026
+2026-11-19 18:50:40 | INFO    | Duplicado unido: relato r025
+2026-11-19 18:50:40 | INFO    | Decisão: 7 críticos, 9 de atenção, 7 sem alerta
+2026-11-19 18:50:40 | INFO    | Alertas publicados no MVP: {'recebidos': 16, 'novos': 16, 'total': 32}
+2026-11-19 18:50:40 | INFO    | Fim: status=sucesso · lidos=31 · válidos=27 · quarentena=4 · duplicados=4 · críticos=7 · atenção=9 · 0.1 s
+2026-11-19 19:09:59 | INFO    | Início da execução (MVP: http://127.0.0.1:8000)
+2026-11-19 19:09:59 | INFO    | Relatos lidos: 31
+2026-11-19 19:09:59 | WARNING | Quarentena: relato r028 (sem_coordenada)
+2026-11-19 19:09:59 | WARNING | Quarentena: relato r029 (tipo_invalido)
+2026-11-19 19:09:59 | WARNING | Quarentena: relato r030 (fora_de_sao_paulo)
+2026-11-19 19:09:59 | WARNING | Quarentena: relato r031 (severidade_invalida)
+2026-11-19 19:09:59 | INFO    | Duplicado unido: relato r024
+2026-11-19 19:09:59 | INFO    | Duplicado unido: relato r027
+2026-11-19 19:09:59 | INFO    | Duplicado unido: relato r026
+2026-11-19 19:09:59 | INFO    | Duplicado unido: relato r025
+2026-11-19 19:10:03 | INFO    | Decisão: 0 críticos, 0 de atenção, 23 sem alerta
+2026-11-19 19:10:03 | INFO    | Fim: status=sucesso · lidos=31 · válidos=27 · quarentena=4 · duplicados=4 · críticos=0 · atenção=0 · 4.2 s
+2026-11-19 19:13:16 | INFO    | Início da execução (MVP: http://127.0.0.1:8000)
+2026-11-19 19:13:16 | INFO    | Relatos lidos: 31
+2026-11-19 19:13:16 | WARNING | Quarentena: relato r028 (sem_coordenada)
+2026-11-19 19:13:16 | WARNING | Quarentena: relato r029 (tipo_invalido)
+2026-11-19 19:13:16 | WARNING | Quarentena: relato r030 (fora_de_sao_paulo)
+2026-11-19 19:13:16 | WARNING | Quarentena: relato r031 (severidade_invalida)
+2026-11-19 19:13:16 | INFO    | Duplicado unido: relato r024
+2026-11-19 19:13:16 | INFO    | Duplicado unido: relato r027
+2026-11-19 19:13:16 | INFO    | Duplicado unido: relato r026
+2026-11-19 19:13:16 | INFO    | Duplicado unido: relato r025
+2026-11-19 19:13:20 | INFO    | Decisão: 0 críticos, 0 de atenção, 23 sem alerta
+2026-11-19 19:13:20 | INFO    | Fim: status=sucesso · lidos=31 · válidos=27 · quarentena=4 · duplicados=4 · críticos=0 · atenção=0 · 4.3 s
+2026-11-19 19:23:02 | INFO    | Início da execução (MVP: http://127.0.0.1:8000)
+2026-11-19 19:23:02 | INFO    | Relatos lidos: 31
+2026-11-19 19:23:02 | WARNING | Quarentena: relato r028 (sem_coordenada)
+2026-11-19 19:23:02 | WARNING | Quarentena: relato r029 (tipo_invalido)
+2026-11-19 19:23:02 | WARNING | Quarentena: relato r030 (fora_de_sao_paulo)
+2026-11-19 19:23:02 | WARNING | Quarentena: relato r031 (severidade_invalida)
+2026-11-19 19:23:02 | INFO    | Duplicado unido: relato r024
+2026-11-19 19:23:02 | INFO    | Duplicado unido: relato r027
+2026-11-19 19:23:02 | INFO    | Duplicado unido: relato r026
+2026-11-19 19:23:02 | INFO    | Duplicado unido: relato r025
+2026-11-19 19:23:06 | INFO    | Decisão: 0 críticos, 0 de atenção, 23 sem alerta
+2026-11-19 19:23:06 | INFO    | Fim: status=sucesso · lidos=31 · válidos=27 · quarentena=4 · duplicados=4 · críticos=0 · atenção=0 · 4.3 s
+2026-11-19 19:24:33 | INFO    | Início da execução (MVP: http://127.0.0.1:8000) · MODO DEMONSTRAÇÃO: chuva simulada de 5.0 mm
+2026-11-19 19:24:33 | INFO    | Relatos lidos: 31
+2026-11-19 19:24:33 | WARNING | Quarentena: relato r028 (sem_coordenada)
+2026-11-19 19:24:33 | WARNING | Quarentena: relato r029 (tipo_invalido)
+2026-11-19 19:24:33 | WARNING | Quarentena: relato r030 (fora_de_sao_paulo)
+2026-11-19 19:24:33 | WARNING | Quarentena: relato r031 (severidade_invalida)
+2026-11-19 19:24:33 | INFO    | Duplicado unido: relato r024
+2026-11-19 19:24:33 | INFO    | Duplicado unido: relato r027
+2026-11-19 19:24:33 | INFO    | Duplicado unido: relato r026
+2026-11-19 19:24:33 | INFO    | Duplicado unido: relato r025
+2026-11-19 19:24:33 | INFO    | Decisão: 7 críticos, 9 de atenção, 7 sem alerta
+2026-11-19 19:24:33 | INFO    | Alertas publicados no MVP: {'recebidos': 16, 'novos': 16, 'total': 16}
+2026-11-19 19:24:33 | INFO    | Fim: status=sucesso · lidos=31 · válidos=27 · quarentena=4 · duplicados=4 · críticos=7 · atenção=9 · 0.0 s
+2026-11-19 19:26:45 | INFO    | Início da execução (MVP: http://127.0.0.1:8000)
+2026-11-19 19:26:45 | INFO    | Relatos lidos: 31
+2026-11-19 19:26:45 | WARNING | Quarentena: relato r028 (sem_coordenada)
+2026-11-19 19:26:45 | WARNING | Quarentena: relato r029 (tipo_invalido)
+2026-11-19 19:26:45 | WARNING | Quarentena: relato r030 (fora_de_sao_paulo)
+2026-11-19 19:26:45 | WARNING | Quarentena: relato r031 (severidade_invalida)
+2026-11-19 19:26:45 | INFO    | Duplicado unido: relato r024
+2026-11-19 19:26:45 | INFO    | Duplicado unido: relato r027
+2026-11-19 19:26:45 | INFO    | Duplicado unido: relato r026
+2026-11-19 19:26:45 | INFO    | Duplicado unido: relato r025
+2026-11-19 19:26:50 | INFO    | Decisão: 0 críticos, 0 de atenção, 23 sem alerta
+2026-11-19 19:26:50 | INFO    | Fim: status=sucesso · lidos=31 · válidos=27 · quarentena=4 · duplicados=4 · críticos=0 · atenção=0 · 4.3 s
+2026-11-19 19:28:53 | INFO    | Início da execução (MVP: http://127.0.0.1:9999)
+2026-11-19 19:28:55 | WARNING | API do MVP (GET /api/relatos): tentativa 1/3 falhou (ConnectionError)
+2026-11-19 19:28:59 | WARNING | API do MVP (GET /api/relatos): tentativa 2/3 falhou (ConnectionError)
+2026-11-19 19:29:06 | WARNING | API do MVP (GET /api/relatos): tentativa 3/3 falhou (ConnectionError)
+2026-11-19 19:29:06 | ERROR   | FALHA: API do MVP (GET /api/relatos) indisponível após 3 tentativas. Nenhum alerta foi gerado nesta execução.
+2026-11-19 19:29:06 | INFO    | Fim: status=falha · lidos=0 · válidos=0 · quarentena=0 · duplicados=0 · críticos=0 · atenção=0 · 12.1 s
+2026-11-19 19:37:21 | INFO    | Início da execução (MVP: http://127.0.0.1:8000)
+2026-11-19 19:37:21 | INFO    | Relatos lidos: 31
+2026-11-19 19:37:21 | WARNING | Quarentena: relato r028 (sem_coordenada)
+2026-11-19 19:37:21 | WARNING | Quarentena: relato r029 (tipo_invalido)
+2026-11-19 19:37:21 | WARNING | Quarentena: relato r030 (fora_de_sao_paulo)
+2026-11-19 19:37:21 | WARNING | Quarentena: relato r031 (severidade_invalida)
+2026-11-19 19:37:21 | INFO    | Duplicado unido: relato r024
+2026-11-19 19:37:21 | INFO    | Duplicado unido: relato r027
+2026-11-19 19:37:21 | INFO    | Duplicado unido: relato r026
+2026-11-19 19:37:21 | INFO    | Duplicado unido: relato r025
+2026-11-19 19:37:25 | INFO    | Decisão: 0 críticos, 0 de atenção, 23 sem alerta
+2026-11-19 19:37:25 | INFO    | Fim: status=sucesso · lidos=31 · válidos=27 · quarentena=4 · duplicados=4 · críticos=0 · atenção=0 · 4.3 s
+2026-11-19 19:38:33 | INFO    | Início da execução (MVP: http://127.0.0.1:8000) · MODO DEMONSTRAÇÃO: chuva simulada de 5.0 mm
+2026-11-19 19:38:33 | INFO    | Relatos lidos: 31
+2026-11-19 19:38:33 | WARNING | Quarentena: relato r028 (sem_coordenada)
+2026-11-19 19:38:33 | WARNING | Quarentena: relato r029 (tipo_invalido)
+2026-11-19 19:38:33 | WARNING | Quarentena: relato r030 (fora_de_sao_paulo)
+2026-11-19 19:38:33 | WARNING | Quarentena: relato r031 (severidade_invalida)
+2026-11-19 19:38:33 | INFO    | Duplicado unido: relato r024
+2026-11-19 19:38:33 | INFO    | Duplicado unido: relato r027
+2026-11-19 19:38:33 | INFO    | Duplicado unido: relato r026
+2026-11-19 19:38:33 | INFO    | Duplicado unido: relato r025
+2026-11-19 19:38:33 | INFO    | Decisão: 7 críticos, 9 de atenção, 7 sem alerta
+2026-11-19 19:38:33 | INFO    | Alertas publicados no MVP: {'recebidos': 16, 'novos': 16, 'total': 16}
+2026-11-19 19:38:33 | INFO    | Fim: status=sucesso · lidos=31 · válidos=27 · quarentena=4 · duplicados=4 · críticos=7 · atenção=9 · 0.0 s
+2026-11-19 19:40:19 | INFO    | Início da execução (MVP: http://127.0.0.1:9999)
+2026-11-19 19:40:21 | WARNING | API do MVP (GET /api/relatos): tentativa 1/3 falhou (ConnectionError)
+2026-11-19 19:40:25 | WARNING | API do MVP (GET /api/relatos): tentativa 2/3 falhou (ConnectionError)
+2026-11-19 19:40:31 | WARNING | API do MVP (GET /api/relatos): tentativa 3/3 falhou (ConnectionError)
+2026-11-19 19:40:31 | ERROR   | FALHA: API do MVP (GET /api/relatos) indisponível após 3 tentativas. Nenhum alerta foi gerado nesta execução.
+2026-11-19 19:40:31 | INFO    | Fim: status=falha · lidos=0 · válidos=0 · quarentena=0 · duplicados=0 · críticos=0 · atenção=0 · 12.2 s

@@ -1,0 +1,18 @@
+[
+ {
+  "id": "r028",
+  "motivo": "sem_coordenada"
+ },
+ {
+  "id": "r029",
+  "motivo": "tipo_invalido"
+ },
+ {
+  "id": "r030",
+  "motivo": "fora_de_sao_paulo"
+ },
+ {
+  "id": "r031",
+  "motivo": "severidade_invalida"
+ }
+]

@@ -1,0 +1,24 @@
+﻿perigo_id;ciclovia;tipo;severidade;qtd_relatos;lat;lon;chuva_prevista_mm;alerta;mapa
+r021;Av. Brigadeiro Faria Lima;poca;alta;1;-23.591246;-46.679675;5.0;critico;https://www.google.com/maps?q=-23.591246,-46.679675
+r009;Av. Paulista;obstaculo;alta;1;-23.55778;-46.659307;5.0;critico;https://www.google.com/maps?q=-23.55778,-46.659307
+r018;Av. Paulista;buraco;alta;1;-23.563324;-46.6528;5.0;critico;https://www.google.com/maps?q=-23.563324,-46.6528
+r007;Av. Paulista;buraco;alta;1;-23.56678;-46.648609;5.0;critico;https://www.google.com/maps?q=-23.56678,-46.648609
+r004;Av. Brigadeiro Faria Lima;buraco;alta;1;-23.571193;-46.691354;5.0;critico;https://www.google.com/maps?q=-23.571193,-46.691354
+r022;Av. Paulista;buraco;alta;2;-23.566018;-46.649711;5.0;critico;https://www.google.com/maps?q=-23.566018,-46.649711
+r023;Av. Paulista;buraco;alta;1;-23.558709;-46.658324;5.0;critico;https://www.google.com/maps?q=-23.558709,-46.658324
+r012;Av. Brigadeiro Faria Lima;poca;media;1;-23.571073;-46.691441;5.0;atencao;https://www.google.com/maps?q=-23.571073,-46.691441
+r020;Av. Paulista;poca;media;1;-23.556588;-46.660896;5.0;atencao;https://www.google.com/maps?q=-23.556588,-46.660896
+r016;Av. Brigadeiro Faria Lima;obstaculo;media;1;-23.570216;-46.691971;5.0;atencao;https://www.google.com/maps?q=-23.570216,-46.691971
+r011;Av. Paulista;buraco;media;1;-23.558358;-46.658496;5.0;atencao;https://www.google.com/maps?q=-23.558358,-46.658496
+r017;Av. Paulista;poca;media;1;-23.568406;-46.646946;5.0;atencao;https://www.google.com/maps?q=-23.568406,-46.646946
+r003;Av. Brigadeiro Faria Lima;buraco;media;2;-23.572912;-46.690285;5.0;atencao;https://www.google.com/maps?q=-23.572912,-46.690285
+r010;Av. Brigadeiro Faria Lima;buraco;media;1;-23.588489;-46.681275;5.0;atencao;https://www.google.com/maps?q=-23.588489,-46.681275
+r019;Av. Paulista;buraco;media;1;-23.557011;-46.660215;5.0;atencao;https://www.google.com/maps?q=-23.557011,-46.660215
+r006;Av. Brigadeiro Faria Lima;poca;media;1;-23.58819;-46.681321;5.0;atencao;https://www.google.com/maps?q=-23.58819,-46.681321
+r013;Av. Brigadeiro Faria Lima;desnivel;baixa;1;-23.576367;-46.688365;5.0;;https://www.google.com/maps?q=-23.576367,-46.688365
+r015;Av. Brigadeiro Faria Lima;buraco;baixa;1;-23.580568;-46.685735;5.0;;https://www.google.com/maps?q=-23.580568,-46.685735
+r002;Av. Brigadeiro Faria Lima;poca;baixa;2;-23.568295;-46.693197;5.0;;https://www.google.com/maps?q=-23.568295,-46.693197
+r001;Av. Paulista;obstaculo;baixa;2;-23.555729;-46.661926;5.0;;https://www.google.com/maps?q=-23.555729,-46.661926
+r008;Av. Brigadeiro Faria Lima;obstaculo;baixa;1;-23.571517;-46.691168;5.0;;https://www.google.com/maps?q=-23.571517,-46.691168
+r014;Av. Paulista;poca;baixa;1;-23.557674;-46.659567;5.0;;https://www.google.com/maps?q=-23.557674,-46.659567
+r005;Av. Brigadeiro Faria Lima;poca;baixa;1;-23.58248;-46.68467;5.0;;https://www.google.com/maps?q=-23.58248,-46.68467

@@ -1,0 +1,22 @@
+# Configuração do bot de triagem. Nada aqui é segredo; a URL pode ser trocada pela variável MVP_URL.
+mvp_url: http://127.0.0.1:8000
+
+# Regra de negócio
+limiar_chuva_mm: 1.0        # chuva em alguma das próximas horas >= limiar => trecho com chuva
+horas_previsao: 3
+validade_alerta_h: 3
+raio_duplicado_m: 25        # relatos do mesmo tipo a menos disso viram um só perigo
+
+# Resiliência
+tentativas: 3
+espera_inicial_s: 2         # espera dobra a cada tentativa (2 s, 4 s)
+timeout_s: 10
+
+# Validação dos dados
+tipos_validos: [buraco, desnivel, poca, obstaculo]
+severidades_validas: [baixa, media, alta]
+area_sao_paulo: {lat_min: -24.01, lat_max: -23.35, lon_min: -46.83, lon_max: -46.36}
+
+ciclovias:
+  - {nome: Av. Paulista, lat_min: -23.5720, lat_max: -23.5530, lon_min: -46.6650, lon_max: -46.6420}
+  - {nome: Av. Brigadeiro Faria Lima, lat_min: -23.5950, lat_max: -23.5650, lon_min: -46.6960, lon_max: -46.6770}
